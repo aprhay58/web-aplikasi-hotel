@@ -4,6 +4,8 @@ Rencana Menu Setting
   * id
   * nama
   * jabatan
+    ^ buat layout form 
 - Master Cabang
+  ^ buat layout form
 - Master Perusahaan
 - Master Tamu
