@@ -1,0 +1,4 @@
+Backend:
+- Alur Kerja
+- Perisiapan database
+- Koneksi
