@@ -2,5 +2,6 @@ Backend:
 - Alur Kerja
 - Perisiapan database
 - Koneksi
-- Membuat form login
 - Membuat validasi
+- Membuat format id
+- Membuat form login
