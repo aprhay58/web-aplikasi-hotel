@@ -5,5 +5,9 @@ Rencana Menu Setting
   * nama
   * jabatan
 - Master Cabang
+  * id
+  * nama cabang
 - Master Perusahaan
+  * id
+  * nama perusahaan
 - Master Tamu
