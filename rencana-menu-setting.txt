@@ -1,0 +1,8 @@
+Rencana Menu Setting
+
+- Master User
+  * id
+  * nama
+  * jabatan
+- Master Perusahaan
+- Master Tamu
